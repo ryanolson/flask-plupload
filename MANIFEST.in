@@ -1,0 +1,2 @@
+recursive-include plupload/static *
+recursive-include plupload/templates *
